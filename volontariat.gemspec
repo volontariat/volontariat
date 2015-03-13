@@ -10,8 +10,8 @@ Gem::Specification.new do |s|
   s.authors     = ['Mathias Gawlista']
   s.email       = ['gawlista@gmail.com']
   s.homepage    = 'http://Volontari.at'
-  s.summary     = 'Should extend gem voluntary to be a paid crowdsourcing platform.'
-  s.description = 'Should extend gem voluntary to be a paid crowdsourcing platform.'
+  s.summary     = 'Volunteer recruiting module for crowdsourcing gem voluntary.'
+  s.description = 'Volunteer recruiting module for crowdsourcing gem voluntary not to mistake it for volontari.at repository, which is an app using voluntary gem with modules.'
   s.license     = 'MIT'
 
   s.files = Dir['{app,config,db,lib}/**/*', 'MIT-LICENSE', 'Rakefile', 'README.rdoc']
